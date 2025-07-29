@@ -29,10 +29,6 @@ Welcome! This repository contains my personal data analytics projects built usin
 - Created a Power BI dashboard with filters for region, product category, and time.
 - Enabled stakeholders to identify top-performing products and underperforming segments.
 
-📂 [Project Folder](./retail-sales-dashboard)  
-📄 [View SQL](./retail-sales-dashboard/superstore_analysis.sql)  
-📊 [Dashboard File (.pbix)](./retail-sales-dashboard/superstore_dashboard.pbix)
-
 ---
 
 ### 2. 📉 Retail Customer Sales Analysis (Python – EDA)
@@ -43,8 +39,6 @@ Welcome! This repository contains my personal data analytics projects built usin
 - Visualized sales and profit across categories using `matplotlib` and `seaborn`.
 - Identified inconsistent profit behavior and provided actionable insights.
 
-📂 [Project Folder](./retail-customer-sales-analysis)  
-📓 [View Notebook](./retail-customer-sales-analysis/retail_data.ipynb)
 
 ---
 
@@ -56,8 +50,13 @@ Welcome! This repository contains my personal data analytics projects built usin
 - Added slicers to enable filtering by product, gender, payment method, and city.
 - Designed a visually clean layout with KPIs and trend charts for stakeholder use.
 
-📂 [Project Folder](./general-store-dashboard)  
-📊 [Dashboard File (.pbix)](./general-store-dashboard/generalstoredata_dashboard.pbix)
+### 4. 📊 customer churn analysis using python
+**Goal:** Analyze why customers are leaving and identify patterns using data.
+
+- Cleaned and preprocessed Telco churn dataset using pandas.
+- Explored key churn drivers like tenure, monthly charges, and contract type.
+- Used correlation analysis and grouped visuals for numeric vs. categorical insights.
+- Built visualizations (bar, pie) to communicate churn patterns clearly.
 
 ---
 
