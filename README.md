@@ -49,6 +49,8 @@ Welcome! This repository contains my personal data analytics projects built usin
 - Imported structured sales data to create visuals for revenue, quantity sold, and customer behavior.
 - Added slicers to enable filtering by product, gender, payment method, and city.
 - Designed a visually clean layout with KPIs and trend charts for stakeholder use.
+  
+---
 
 ### 4. 📊 customer churn analysis using python
 **Goal:** Analyze why customers are leaving and identify patterns using data.
