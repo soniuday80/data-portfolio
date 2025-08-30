@@ -25,6 +25,7 @@ Welcome! This repository contains my personal data analytics projects built usin
 
 **Goal:** Analyze sales and profit trends using SQL and visualize them through an interactive Power BI dashboard.
 
+- Pre-processed and structured raw datasets in excel to ensure accuracy and consistency.
 - Wrote SQL queries to calculate total sales, profit, and orders by category and segment.
 - Created a Power BI dashboard with filters for region, product category, and time.
 - Enabled stakeholders to identify top-performing products and underperforming segments.
