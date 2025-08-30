@@ -38,15 +38,8 @@ Furniture margins dropped in Q2 – review pricing
 
 ---
 
-### 2. 📉 Retail Customer Sales Analysis (Python – EDA)
 
-- Cleaned and preprocessed data using `pandas`.
-- Visualized sales and profit across categories using `matplotlib` and `seaborn`.
-
-**insight**
----
-
-### 3. 📊 General Store Dashboard (Power BI Only)
+### 2. 📊 General Store Dashboard (Power BI Only)
 
 - Imported structured sales data to create visuals for revenue, quantity sold, and customer behavior.
 - Added slicers to enable filtering by product, gender, payment method, and city.
@@ -64,7 +57,7 @@ Home Office had the lowest sales contribution.
 - time analysis: A significant drop in October indicated possible seasonal/operational challenges.
 ---
 
-### 4. 📊 customer churn analysis using python
+### 3. 📊 customer churn analysis using python
 
 - Cleaned and preprocessed Telco churn dataset using pandas.
 - Explored key churn drivers like tenure, monthly charges, and contract type.
@@ -72,6 +65,16 @@ Home Office had the lowest sales contribution.
 - Built visualizations (bar, pie) to communicate churn patterns clearly.
 
 **insights**
+Insights – Customer Churn Analysis
+
+- Churn Rate: Out of ~7,043 customers, 26.54% have churned (1869 customers).
+- Tenure: Customers with shorter tenure are more likely to churn; long-term customers are relatively loyal.
+- Monthly Charges: There is a positive correlation between higher monthly charges and churn → customers paying more per month tend to       leave faster.
+- Total Charges: Negatively correlated with churn → customers who have spent more overall (longer tenure) are less likely to churn.
+- Contract Type: Customers on month-to-month contracts showed the highest churn rate.
+  Customers with 1-year or 2-year contracts had significantly lower churn.
+- Technical Support: Lack of tech support is correlated with higher churn → customers with no support churn more often.
+- Churn Distribution: Pie chart shows a clear imbalance — majority customers didn’t churn (≈73.5%), but the churned group (≈26.5%) is       still significant.
 ---
 
 ## 📬 Contact
