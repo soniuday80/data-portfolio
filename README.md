@@ -29,7 +29,11 @@ Welcome! This repository contains my personal data analytics projects built usin
 - Enabled stakeholders to identify top-performing products and underperforming segments.
 
 **insights**
--
+KPI Performance: The store achieved 2.27M total sales, 282.86K total profit, and 9,694 orders during the period.
+Category-wise: Technology products generated the highest sales, followed by Furniture, while Office Supplies contributed the least.
+Regional Trends: The west region led in total sales, followed closely by the east, while the South region had the lowest sales performance.
+Time Analysis: Sales peaked in nov 2017, with a noticeable decline in subsequent months.
+Product Insights: A few top products like Canon ImageCLASS, Cisco TelePresence, Fellowes PB500 contributed disproportionately high sales compared to others.
 
 ---
 
@@ -38,7 +42,7 @@ Welcome! This repository contains my personal data analytics projects built usin
 - Cleaned and preprocessed data using `pandas`.
 - Visualized sales and profit across categories using `matplotlib` and `seaborn`.
 
-
+**insight**
 ---
 
 ### 3. 📊 General Store Dashboard (Power BI Only)
@@ -47,6 +51,7 @@ Welcome! This repository contains my personal data analytics projects built usin
 - Added slicers to enable filtering by product, gender, payment method, and city.
 - Designed a visually clean layout with KPIs and trend charts for stakeholder use.
   
+**insights**
 ---
 
 ### 4. 📊 customer churn analysis using python
@@ -56,6 +61,7 @@ Welcome! This repository contains my personal data analytics projects built usin
 - Used correlation analysis and grouped visuals for numeric vs. categorical insights.
 - Built visualizations (bar, pie) to communicate churn patterns clearly.
 
+**insights**
 ---
 
 ## 📬 Contact
